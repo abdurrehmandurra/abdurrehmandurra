@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently doing job and freelancing
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me email me or inbox me
+- 📫 How to reach me email or inbox me
 
 <!---
 abdurrehmandurra/abdurrehmandurra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
